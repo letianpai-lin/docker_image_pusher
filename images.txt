@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 bitnami/kafka
 bitnami/zookeeper
+nacos/nacos-server
